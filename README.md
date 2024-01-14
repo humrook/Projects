@@ -1,1 +1,1 @@
-# Projects
+Personal projects to learn javascript
